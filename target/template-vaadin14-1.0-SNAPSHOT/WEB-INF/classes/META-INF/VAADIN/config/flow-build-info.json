@@ -1,0 +1,7 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "/workspace/vaadin-starter",
+  "generatedFolder": "/workspace/vaadin-starter/target/frontend",
+  "frontendFolder": "/workspace/vaadin-starter/frontend"
+}
