@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.gmail.michzuerch.backend.data.entity.ProductTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.gmail.michzuerch.backend.data.entity.ProductTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.343 s - in com.gmail.michzuerch.backend.data.entity.ProductTest
